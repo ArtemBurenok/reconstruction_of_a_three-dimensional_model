@@ -102,7 +102,7 @@ EXPLAIN ANALYZE
 SELECT SUM(summ) AS common_income FROM Transactions LIMIT 10;
 ```
 
-
+Все запросы для операций с данными лежат в файле `operations.sql`.
 
 
 
