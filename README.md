@@ -27,6 +27,13 @@
 * Таблица **Transactions** будет связана с таблицей **Products** через ID_продукта.
 * Таблица **Transactions** будет связана с таблицей **Time** через ID_time.
 
+<div align="center">
+  <br/>
+  <img src="https://github.com/user-attachments/assets/b9a1d729-da3e-492c-9ca2-6989ce9635e1"/>
+  <p><i>ER-диаграмма БД</i></p>
+  <br/>
+</div>
+
 Код для создания таблиц находится в файле `create_tables.sql`. Вставка данных в таблицу происходит в файле `insert_data.sql`.
 
 ## Операции с данными
